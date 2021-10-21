@@ -50,7 +50,7 @@
     <div class="container mt-5">
       <hr class="mt-5" />
       <div class="row text-center">
-        <h2>Quem somos</h2>
+        <h2>Nosso Projeto</h2>
       </div>
       <div class="row mt-5">
         <div class="col-md-6 text-center">
@@ -63,28 +63,12 @@
         </div>
         <div class="col-md-6 d-flex align-items-center">
           <p class="m-0 p-0 text-justify" style="text-align: justify">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic
-            recusandae quasi dicta, laudantium rerum ducimus culpa veritatis,
-            eos quas officiis nostrum nam aliquid, illum necessitatibus amet
-            voluptatem explicabo cumque reiciendis! Lorem, ipsum dolor sit amet
-            consectetur adipisicing elit. Hic recusandae quasi dicta, laudantium
-            rerum ducimus culpa veritatis, eos quas officiis nostrum nam
-            aliquid, illum necessitatibus amet voluptatem explicabo cumque
-            reiciendis! Lorem, ipsum dolor sit amet consectetur adipisicing
-            elit. Hic recusandae quasi dicta, laudantium rerum ducimus culpa
-            veritatis, eos quas officiis nostrum nam aliquid, illum
-            necessitatibus amet voluptatem explicabo cumque reiciendis! Lorem,
-            ipsum dolor sit amet consectetur adipisicing elit. Hic recusandae
-            quasi dicta, laudantium rerum ducimus culpa veritatis, eos quas
-            officiis nostrum nam aliquid, illum necessitatibus amet voluptatem
-            explicabo cumque reiciendis! Lorem, ipsum dolor sit amet consectetur
-            adipisicing elit. Hic recusandae quasi dicta, laudantium rerum
-            ducimus culpa veritatis, eos quas officiis nostrum nam aliquid,
-            illum necessitatibus amet voluptatem explicabo cumque reiciendis!
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic
-            recusandae quasi dicta, laudantium rerum ducimus culpa veritatis,
-            eos quas officiis nostrum nam aliquid, illum necessitatibus amet
-            voluptatem explicabo cumque reiciendis!
+            Há uma situação por qual a maior parte das pessoas já passaram, começar a preparar algum alimento e se deparar com a 
+            falta de algum dos ingredientes essenciais para o preparo, como açúcar, sal, farinha, café e vários outros.
+
+            Para resolver este problema criamos um dispositivo IOT inovador, um Pote Inteligente chamando Além do Pote, ele é capaz de 
+            monitorar o conteúdo do recipiente e alertar o usuário quando deve reabastecê-lo. Além de poder acompanhar a quantidade de 
+            consumo deste ingrediente pela família, conscientizando o usuário de possíveis risco para saúde por consumo excessivo. 
           </p>
         </div>
       </div>
@@ -96,33 +80,15 @@
 
     <div class="container mt-5">
       <div class="row text-center">
-        <h2>O que Fazemos</h2>
+        <h2>Funcionalidades</h2>
       </div>
       <div class="row mt-5">
         <div class="col-md-6 d-flex align-items-center">
           <p class="m-0 p-0 text-justify" style="text-align: justify">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic
-            recusandae quasi dicta, laudantium rerum ducimus culpa veritatis,
-            eos quas officiis nostrum nam aliquid, illum necessitatibus amet
-            voluptatem explicabo cumque reiciendis! Lorem, ipsum dolor sit amet
-            consectetur adipisicing elit. Hic recusandae quasi dicta, laudantium
-            rerum ducimus culpa veritatis, eos quas officiis nostrum nam
-            aliquid, illum necessitatibus amet voluptatem explicabo cumque
-            reiciendis! Lorem, ipsum dolor sit amet consectetur adipisicing
-            elit. Hic recusandae quasi dicta, laudantium rerum ducimus culpa
-            veritatis, eos quas officiis nostrum nam aliquid, illum
-            necessitatibus amet voluptatem explicabo cumque reiciendis! Lorem,
-            ipsum dolor sit amet consectetur adipisicing elit. Hic recusandae
-            quasi dicta, laudantium rerum ducimus culpa veritatis, eos quas
-            officiis nostrum nam aliquid, illum necessitatibus amet voluptatem
-            explicabo cumque reiciendis! Lorem, ipsum dolor sit amet consectetur
-            adipisicing elit. Hic recusandae quasi dicta, laudantium rerum
-            ducimus culpa veritatis, eos quas officiis nostrum nam aliquid,
-            illum necessitatibus amet voluptatem explicabo cumque reiciendis!
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Hic
-            recusandae quasi dicta, laudantium rerum ducimus culpa veritatis,
-            eos quas officiis nostrum nam aliquid, illum necessitatibus amet
-            voluptatem explicabo cumque reiciendis!
+            O dispositivo servirá como um pote e irá monitorar o conteúdo deste por meio de um sensor de peso, mandando os dados para 
+            o aplicativo, que poderá enviar notificações ao usuário quando algo estiver acabando e preparar um relatório semanal com o 
+            consumo total e os diários, e caso o usuário deseje, comparando com a quantia ideal para saúde, estabelecida pelo Ministério 
+            da Saúde.
           </p>
         </div>
         <div class="col-md-6 text-center">
