@@ -33,7 +33,7 @@
       "
     >
       <div class="content text-center">
-        <h1 class="mb-5">Sobre Nós</h1>
+        <h1 class="mb-5">Projeto Além do Pote</h1>
         <a href="#scrool__down" style="text-decoration: none; color: #fafafa"
           >Ver Mais</a
         >
