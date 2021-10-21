@@ -104,6 +104,8 @@
       
       <div class="row mt-5" style="height: 300px; background-image: url('https://weneedfun.com/wp-content/uploads/2016/07/Black-Wallpapers-8.jpg'); background-size: cover;">
       
+      </div>
+      
       <div class="container mt-5">
         
         <div class="row text-center">
@@ -113,7 +115,7 @@
         <div class="row mt-5">
           <div class="col-md-6 text-center">
             <img
-              src="https://i.imgur.com/8gmBfJF.png"
+              src="https://i.imgur.com/6HsdIXs.png"
               style="height: 800px"/>
           </div>
         </div>
