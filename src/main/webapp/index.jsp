@@ -101,6 +101,12 @@
           />
         </div>
       </div>
+      <div class="container mt-5">
+        <img
+           src="https://i.imgur.com/8gmBfJF.png"
+           style="height: 400px"
+        />
+      </div>
     </div>
 
     <script
