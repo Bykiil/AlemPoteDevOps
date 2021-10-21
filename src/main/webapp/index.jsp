@@ -101,10 +101,10 @@
           />
         </div>
       </div>
+     </div>
+     <div class="row mt-5" style="height: 300px; background-image: url('https://weneedfun.com/wp-content/uploads/2016/07/Black-Wallpapers-8.jpg'); background-size: cover;">
       
-      <div class="row mt-5" style="height: 300px; background-image: url('https://weneedfun.com/wp-content/uploads/2016/07/Black-Wallpapers-8.jpg'); background-size: cover;">
-      
-      </div>
+     </div>
       
       <div class="container mt-5">
         
@@ -119,9 +119,7 @@
               style="height: 800px"/>
           </div>
         </div>
-        
       </div>
-    </div>
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
