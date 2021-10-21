@@ -102,10 +102,19 @@
         </div>
       </div>
       <div class="container mt-5">
-        <img
-           src="https://i.imgur.com/8gmBfJF.png"
-           style="height: 400px"
-        />
+        
+        <div class="row text-center">
+          <h2>Arquitetura</h2>
+        </div>
+        
+        <div class="row mt-5">
+          <div class="col-md-6 text-center">
+            <img
+              src="https://i.imgur.com/8gmBfJF.png"
+              style="height: 800px"/>
+          </div>
+        </div>
+        
       </div>
     </div>
 
